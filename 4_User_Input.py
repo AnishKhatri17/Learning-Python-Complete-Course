@@ -36,3 +36,5 @@ total = price * quantity
 print("\n")
 print(f"You have bought {quantity} * {item}/s")
 print(f"The total amount is Rs.{total}")
+
+# End of the Program  !!!!!!!!!!
