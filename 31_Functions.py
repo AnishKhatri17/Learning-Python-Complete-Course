@@ -92,3 +92,6 @@ def fullname():
     print(f"Your first name is: {first} and your last name is: {last}")
     
 fullname()
+
+# The basis syntax of Python is : def function_name():
+# Indentation is also very important in function defination in Python.
